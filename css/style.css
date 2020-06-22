@@ -1,0 +1,55 @@
+.txt-center{
+	text-align: center !important;
+}
+.bg-grey{
+	background: grey;
+}
+.bg-white{
+	background: white;
+}
+.hg-100{
+	height: 100%;
+}
+body{
+	background-color: black;
+	color: white;
+}
+body p{
+    text-align: justify;
+}
+p img {
+    width: 90%;
+}
+.custom-h1{
+	margin: 30px 0px; 	
+}
+.custome_form{
+	padding: 25px;
+	border: 1px solid grey;
+	border-radius: 0.25rem;
+}
+.text-red{
+	color: red;
+}
+.mg-30{
+	margin: 30px;
+}
+@media (max-width: 768px) or (max-height: 638px){
+	.hg-100{
+		height: auto;
+	}
+}
+.nav-item{
+	padding: 10px 20px;
+    border: 1px solid;
+}
+.navbar-brand img{
+	width : 75%;
+}
+.image_deatils img{
+	height: 350px;
+	width: auto;
+}
+footer{
+	text-align: center;
+}
